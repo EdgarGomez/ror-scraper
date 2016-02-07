@@ -1,9 +1,6 @@
 # Ruby on Rails Movies Scraper
 Test application developed in Ruby on rails. It focuses in scrape movies from http://www.rottentomatoes.com/. The user can paste an url from this website and the app will scrape the data like synopsis, title, image, audience score, rating, etc.
 
-### App live preview
-Hosted on Heroku, you can view the app here: [rortodolist.herokuapp.com](http://rortodolist.herokuapp.com)
-
 ### Installing the app
 
 Once you downloaded/clone the code, run in you terminal:
@@ -24,9 +21,5 @@ gem 'devise'
 gem 'validate_url'
 gem 'nokogiri'
 ```
-
-Services connected to the application:
-    - Heroku (app hosting and deployment)
-
 
 This is a test application, developed and used for learn Ruby on Rails. It was made following many tutorials and applying knowledge from many websites. If you need help contact me in [http://edgargomez.es/#contacts](http://edgargomez.es/#contacts)
